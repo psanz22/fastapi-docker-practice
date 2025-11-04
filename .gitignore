@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Configuración local
+.env
+*.env
+
+# Archivos de Docker que no sean necesarios
+*.pid
+
+# Archivos del sistema
+.DS_Store
+.idea/
+.vscode/
